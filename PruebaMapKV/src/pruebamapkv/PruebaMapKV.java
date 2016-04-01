@@ -32,6 +32,7 @@ public class PruebaMapKV {
         aeropuertos.put("MAD", "Madrid");
         aeropuertos.put("BCN", "Barcelona");
 
+        // Mostrar un elemento accediendo por KEY
         System.out.println("Uno: ");
         System.out.println("  " + aeropuertos.get("LHR"));
 
